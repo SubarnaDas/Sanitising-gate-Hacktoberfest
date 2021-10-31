@@ -1,3 +1,4 @@
+/*SukanyaDas contributed for hacktoberfest2021 */
 #define led 5
 #define buzzer 13
 #define relay 7
@@ -15,7 +16,7 @@ void setup() {
 }
 
 void loop() {
-  float u_distance = 2;
+  float u_distance = 0;
   u_distance = ultrasonic(trig, echo);
   if (u_distance.=20){
    led_on();
@@ -24,7 +25,7 @@ void loop() {
   }
   else{
     led_off();
-    buzzer_OFF();
+    buzzer_off();
     relay_off();
   }
   
