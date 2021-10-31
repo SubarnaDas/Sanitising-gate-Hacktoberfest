@@ -14,4 +14,4 @@ Make the necessary changes.
 Make a pull request! 💯
 
 
-This repository is for people who is looking for rectifying the code which is meant for a touchless sanitising machine.
+This repository is for people who are looking for rectifying the code which is meant for a touchless sanitising machine.
