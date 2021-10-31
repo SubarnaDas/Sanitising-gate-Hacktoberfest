@@ -10,3 +10,6 @@ Find something that you'd like to code and contribute to, you can even put your 
 Fork the repository.
 Make the necessary changes.
 Make a pull request! 💯
+
+
+This repository is for people who is looking for rectifying the code which is meant for a touchless sanitising machine.
