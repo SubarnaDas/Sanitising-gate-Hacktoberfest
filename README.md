@@ -1,4 +1,6 @@
-Hacktoberfest 2021
+##Hacktoberfest 2021
+<img width="2295" alt="logo" src="https://user-images.githubusercontent.com/30233576/139594687-dd1fb4d2-2c96-40ad-b0fd-d5389d7db38d.png">
+
 A community-led mentorship initiative to help beginners kickstarting their open-source journey by completing Hacktoberfest'21 challenge
 
 This repository is participating in Hacktoberfest2021! ❤️
